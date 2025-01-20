@@ -1,3 +1,12 @@
+<p float="left">
+
+ <img src="./assets/Captura de tela 2025-01-20 095513.png" width="200" />
+ <img src="./assets/Captura de tela 2025-01-20 095412.png" width="200" />
+ <img src="./assets/Captura de tela 2025-01-20 095346.png" width="200" />
+
+</p>
+
+
 # Projeto: Super Lubrificantes
 
 Este projeto é um site desenvolvido para uma hamburgueria, utilizando **HTML**, **TailwindCSS** e **JavaScript**. O site permite que os clientes façam pedidos diretamente para o WhatsApp da loja, com funcionalidades de geração de orçamento diretamente no WhatsApp.
