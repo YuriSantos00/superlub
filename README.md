@@ -1,8 +1,8 @@
 <p float="left">
 
- <img src="./assets/Captura de tela 2025-01-20 095513.png" width="200" />
- <img src="./assets/Captura de tela 2025-01-20 095412.png" width="200" />
- <img src="./assets/Captura de tela 2025-01-20 095346.png" width="200" />
+ <img src="./assets/Captura de tela 2025-01-20 095513.png" width="300" />
+ <img src="./assets/Captura de tela 2025-01-20 095412.png" width="300" />
+ <img src="./assets/Captura de tela 2025-01-20 095346.png" width="300" />
 
 </p>
 
